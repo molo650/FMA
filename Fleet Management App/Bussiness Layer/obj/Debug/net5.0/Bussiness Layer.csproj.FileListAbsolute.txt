@@ -1,0 +1,12 @@
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\bin\Debug\net5.0\Bussiness Layer.deps.json
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\bin\Debug\net5.0\Bussiness Layer.dll
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\bin\Debug\net5.0\ref\Bussiness Layer.dll
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\bin\Debug\net5.0\Bussiness Layer.pdb
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\obj\Debug\net5.0\Bussiness Layer.csproj.AssemblyReference.cache
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\obj\Debug\net5.0\Bussiness Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\obj\Debug\net5.0\Bussiness Layer.AssemblyInfoInputs.cache
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\obj\Debug\net5.0\Bussiness Layer.AssemblyInfo.cs
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\obj\Debug\net5.0\Bussiness Layer.csproj.CoreCompileInputs.cache
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\obj\Debug\net5.0\Bussiness Layer.dll
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\obj\Debug\net5.0\ref\Bussiness Layer.dll
+C:\Users\molo6\Desktop\Projectwerk\Fleet Management App\Bussiness Layer\obj\Debug\net5.0\Bussiness Layer.pdb
